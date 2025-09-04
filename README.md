@@ -53,8 +53,8 @@ This app allows users to input questions and get AI-powered responses through a 
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/ai-assistant.git
-cd ai-assistant
+https://github.com/rajendraradiya/AI-Assistant-GPT-4.git
+cd AI-Assistant-GPT-4
 ```
 
 2️⃣ Install Dependencies
